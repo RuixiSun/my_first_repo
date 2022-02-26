@@ -1,3 +1,3 @@
 # my_first_repo
 
-This is my first reporcitory.
+This is my first reporsitory.
